@@ -5,11 +5,11 @@ Después se mostró la forma como se genera una librería de enlace estático y 
 
 Se desarrollaron cinco programas:
 
-*[basico.c](basico.c)
-*[libfun.a](libfun.a)
-*[libfun.c](libfun.c)
-*[libfun.h](libfun.c)
-*[libfun.o](libfun.o)
+* [basico.c](basico.c)
+* [libfun.a](libfun.a)
+* [libfun.c](libfun.c)
+* [libfun.h](libfun.c)
+* [libfun.o](libfun.o)
 
 Para completar el programa se llevaron a cabo los siguientes pasos:
 
