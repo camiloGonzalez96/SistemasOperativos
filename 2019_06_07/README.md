@@ -42,6 +42,14 @@ int main(int argc, char** argv) {
   printf("%s\n",apcad);
 }
 ```
+---------------------------------------------------------
+* los argumenos en la linea de comandos se pasan poniendo el comando de ejecucion del programa, seguido de los argumentos que admita el programa. ej: gcc cpu.c -o cpu && ./cpu hola
+
+* el simbolo & se usa para concatenar comandos, de forma que se realice uno seguido del otro
+
+* el comando man sirve para mostrar en el manual, la funcion que cumple un comando con todas sus opciones. ej: man ls
+
+ 
 ## mem.c
 
 ## threads.c
